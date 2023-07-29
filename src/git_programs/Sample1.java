@@ -6,6 +6,10 @@ public class Sample1 {
 		System.out.println("Git program Sample");
 		
 		System.out.println("Testing");
+		
+		System.out.println("Testing 2");
+		
+		
 	}
 
 }
